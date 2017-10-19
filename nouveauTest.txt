@@ -1,3 +1,4 @@
 Super !
 N'est-ce pas ?
 Et là si je change online :
+Et je change aussi en local la boucle est bouclée!
